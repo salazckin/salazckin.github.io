@@ -1,0 +1,35 @@
+<svg width="1090" height="502" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="1092" height="504" id="canvas_background" fill="none"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="697.043122" y1="331.0496" x2="984.633101" y2="331.0496" id="svg_2" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#ffffff" stroke-width="10.5" x1="724.915872" y1="331.049644" x2="724.915872" y2="183.791739" id="svg_3" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke-width="10.5" fill-opacity="null" x1="702.5037" y1="333.183799" x2="678.166383" y2="199.045562" id="svg_4" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ffffff"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="672.826683" y1="200.241737" x2="725.144465" y2="183.963979" id="svg_5" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" transform="rotate(-0.069834865629673 768.0070800781167,190.48468017574575) " fill="none" stroke-width="10.5" fill-opacity="null" x1="722.628904" y1="183.974166" x2="813.385221" y2="196.995213" id="svg_6" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" transform="rotate(7.907513618469238 808.6253051757807,240.76531982421844) " fill="none" stroke-width="10.5" fill-opacity="null" x1="808.625277" y1="191.236318" x2="808.625277" y2="290.294352" id="svg_9" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" fill="none" stroke-width="4.5" fill-opacity="null" x1="807.290402" y1="289.680529" x2="796.225503" y2="289.680529" id="svg_10" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="801.316146" y1="288.599906" x2="786.350166" y2="174.774115" id="svg_11" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="783.307873" y1="179.10541" x2="862.189768" y2="135.353034" id="svg_12" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke-width="10.5" fill-opacity="null" x1="858.926985" y1="134.22265" x2="858.926985" y2="330.094924" id="svg_13" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ffffff"/>
+  <line fill="none" stroke-width="10.5" fill-opacity="null" x1="858.176969" y1="135.47285" x2="952.436698" y2="167.494097" id="svg_15" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ffffff"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" x1="952.129548" y1="161.907662" x2="939.319569" y2="247.877484" id="svg_16" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="944.968859" y1="245.913106" x2="922.20167" y2="245.197357" id="svg_21" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke-width="10.5" fill-opacity="null" x1="927.586622" y1="245.94734" x2="927.586622" y2="212.497455" id="svg_22" stroke-linejoin="undefined" stroke-linecap="undefined" stroke="#ffffff"/>
+  <line stroke="#ffffff" fill="none" stroke-width="10.5" fill-opacity="null" x1="931.507723" y1="217.742062" x2="1014.198588" y2="235.579949" id="svg_23" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line stroke="#ffffff" transform="rotate(5.683462142944336 994.933715820313,281.762969970703) " fill="none" stroke-width="10.5" fill-opacity="null" x1="1005.262516" y1="228.323687" x2="984.604886" y2="335.20226" id="svg_27" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="26" id="svg_18" y="360.236196" x="694.358215" stroke-width="2" stroke="#ffffff" fill="#ffffff">salazckin@github.io</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="178" id="svg_25" y="303.272618" x="26.546895" stroke-width="2" stroke="#000000" fill="#ffffff">cлever</text>
+  <ellipse id="svg_26" cy="440.77233" cx="157.500812" stroke-width="10.5" stroke="#000000" fill="#ffffff"/>
+  <ellipse id="svg_29" cy="370.137795" cx="769.442182" fill-opacity="null" stroke-width="10.5" stroke="#ffffff" fill="none"/>
+  <ellipse stroke="#84ede7" ry="237.500826" rx="237.500826" id="svg_31" cy="253.380949" cx="838.693407" stroke-width="10.5" fill="none"/>
+ </g>
+</svg>
