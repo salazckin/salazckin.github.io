@@ -1808,4 +1808,4 @@ li { cursor: url(../cursorred.cur), pointer; }
 #loader #instruct-screen #directions #scroll-zone #scroll-icon { cursor: url(../cursor1.cur), pointer; }
 #loader #instruct-screen #directions { cursor: url(../cursor1.cur), pointer; }
 #loader #instruct-screen #animated-logo { cursor: url(../cursor1.cur), pointer; }
-#loader #instruct-screen #instruct-screen-inner { cursor: url(../cursor1.cur), pointer; }
+#loader #instruct-screen #instruct-screen-inner { cursor: url(../cursorred.png), pointer; }
