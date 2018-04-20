@@ -1795,12 +1795,12 @@ html.finger-blaster #work.page .content .meta .description{
 
 
 div { cursor: url(../cursorred.cur), pointer; }
-h2 { cursor: url(../cursor1.cur), pointer; }
-h3 { cursor: url(../cursor1.cur), pointer; }
-h4 { cursor: url(../cursor1.cur), pointer; }
-#landing.page.work-mode #control span { cursor: url(../cursor1.cur), pointer; }
-#landing.page #control { cursor: url(../cursor1.cur), pointer; }
-a { cursor: url(../cursor1.cur), pointer; }
+h2 { cursor: url(../cursor.cur), pointer; }
+h3 { cursor: url(../cursor.cur), pointer; }
+h4 { cursor: url(../cursor.cur), pointer; }
+#landing.page.work-mode #control span { cursor: url(../cursor.cur), pointer; }
+#landing.page #control { cursor: url(../cursor.cur), pointer; }
+a { cursor: url(../cursor.cur), pointer; }
 li { cursor: url(../cursorred.cur), pointer; }
 #loader #instruct-screen #directions h2 { cursor: url(../cursor1.cur), pointer; }
 #loader #instruct-screen { cursor: url(../cursor1.cur), pointer; }
