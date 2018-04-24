@@ -461,51 +461,21 @@
         var s;
         s = {
             loading: {
-                copy: "Меня зовут Виктор.<br><span>Я делаю сайты-визитки<br>для строительных компаний.</span>"
+                copy: "Меня зовут Виктор.<br><span>Я делаю сайты<br>для строительных компаний.</span>"
             },
             pages: {
                 about: {
-
-
-
-
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-                    pullquote: ["1 час работы: 500 р."],
+					pullquote: ["1 час работы: 500 р."],
                     alt_quote: "1 час работы: 500 р.",
                     sub_quote: ["", "", ""],
                     alt_sub_quote: "",
                     email: "salazckin@gmail.com",
                     socials: [{
                         name: "TELEGRAM",
-                        link: "http://t.me/salazckin"
+                        link: "https://t.me/salazckin"
                     }, {
-                        name: "Youtube",
-                        link: "https://www.youtube.com/channel/UCvhRMnsM37rr7jtjklYAaLA"
+                        name: "TWITTER",
+                        link: "https://twitter.com/VictorSalazckin"
                     }]
                 },
                 work: [{
