@@ -599,7 +599,7 @@
                     }]
                 }, {
                     slug: "gen",
-                    title: "Генпоряд",
+                    title: "Генподряд",
                     category: "одностраничник",
                     role: "",
                     poster: ["bour.png", "bour.png"],
