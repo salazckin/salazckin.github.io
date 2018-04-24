@@ -461,19 +461,46 @@
         var s;
         s = {
             loading: {
-                copy: "Меня зовут Виктор Салазкин.<br><span>Я делаю продающие страницы<br>строительных компаний.</span>"
+                copy: "Меня зовут Виктор.<br><span>Я делаю сайты-визитки<br>для строительных компаний.</span>"
             },
             pages: {
-                about: {	
-                    pullquote: ["Простой сайт: 100 $", "Сложный сайт: 1000 $", "SEO стандарт 1000 $", "советы 100 $"],
-                    alt_quote: "Простой сайт: 100 $<br>Сложный сайт: 1000 $<br>SEO стандарт 1000 $<br>советы 100 $",
+                about: {
+
+
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+                    pullquote: ["1 час работы: 500 р."],
+                    alt_quote: "1 час работы: 500 р.",
                     sub_quote: ["", "", ""],
                     alt_sub_quote: "",
                     email: "salazckin@gmail.com",
                     socials: [{
-                        name: "houzz",
-                        link: "https://www.houzz.ru/user/---------------326421"
-                    }, {
                         name: "TELEGRAM",
                         link: "http://t.me/salazckin"
                     }, {
@@ -482,10 +509,10 @@
                     }]
                 },
                 work: [{
-                    slug: "one",
+                    slug: "purple",
                     title: "Застройщик",
-                    category: "Готова только главная страница.",
-                    role: "",
+                    category: "SVG анимация",
+                    role: "Готова только главная страница.",
                     poster: ["wnc.png", "wnc.png"],
                     description: "",
                     website: "http://salazckin.github.io/first",
@@ -502,32 +529,32 @@
                         src: "/images/3.png",
                         size: [1200, 613]
                     }]
-                }, {
-                    slug: "two",
-                    title: "Евроремонт",
-                    category: "Универсальный многостраничник",
-                    role: "Мобильная версия в разработке",
-                    poster: ["vn.png", "vn.png"],
+                },{
+                    slug: "yellow",
+                    title: "Застройщик, ремонт",
+                    category: "SVG дизайн",
+                    role: "Готова только главная страница.",
+                    poster: ["yel.png", "yel.png"],
                     description: "",
-                    website: "http://salazckin.github.io/second",                    
+                    website: "http://salazckin.github.io/first",
                     media: [{
                         type: "image",
-                        src: "/images/vn2.png",
-                        size: [1024, 768]
+                        src: "/images/1.png",
+                        size: [1200, 613]
                     }, {
                         type: "image",
-                        src: "/images/vn1.png",
-                        size: [1024, 768]
+                        src: "/images/2.png",
+                        size: [1200, 613]
                     }, {
                         type: "image",
-                        src: "/images/vn3.png",
-                        size: [1024, 768]
+                        src: "/images/3.png",
+                        size: [1200, 613]
                     }]
                 }, {
-                    slug: "tri",
-                    title: "Ремонт",
-                    category: "Универсальный многостраничник",
-                    role: "Красиво работает на смартфоне.",
+                    slug: "white",
+                    title: "Застройщик, ремонт",
+                    category: "Отличный сайт",
+                    role: "Отличная мобильная версия",
                     poster: ["rer.png", "rer.png"],
                     description: "",
                     website: "http://salazckin.github.io/third",                   
@@ -545,10 +572,10 @@
                         size: [1200, 613]
                     }]
                 }, {
-                    slug: "four",
+                    slug: "hammer",
                     title: "Ремонт",
-                    category: "Многостраничник",
-                    role: "присутствуют подвижные элементы",
+                    category: "Анимированные элементы",
+                    role: "мобильная версия не готова",
                     poster: ["pet1.png", "pet1.png"],
                     description: "",
                     website: "http://salazckin.github.io/fourth",
@@ -566,31 +593,10 @@
                         size: [1024, 768]
                     }]
                 }, {
-                    slug: "five",
-                    title: "Генпоряд",
-                    category: "одностраничник",
-                    role: "Хорошая мобильная версия",
-                    poster: ["bour.png", "bour.png"],
-                    description: "",
-                    website: "http://salazckin.github.io/fifth",                   
-                    media: [{
-                        type: "image",
-                        src: "/images/bo1.png",
-                        size: [1024, 768]
-                    }, {
-                        type: "image",
-                        src: "/images/bo2.png",
-                        size: [1024, 768]
-                    }, {
-                        type: "image",
-                        src: "/images/bo3.png",
-                        size: [1024, 768]
-                    }]
-                }, {
-                    slug: "six",
+                    slug: "clever",
                     title: "Умный дом",
                     category: "SVG анимация",
-                    role: "Мобильная версия не готова",
+                    role: "мобильная версия не готова",
                     poster: ["mod.png", "mod.png"],
                     description: "",
                     website: "http://salazckin.github.io/sixth",                                     
@@ -609,10 +615,10 @@
                     }]
                 }, 
 				{
-                    slug: "sem",
+                    slug: "wood",
                     title: "Дома из бруса",
-                    category: "Многостраничник",
-                    role: "Анимированные ЗD модели домов",
+                    category: "3D анимация",
+                    role: "мобильная версия не готова",
                     poster: ["ask.png", "ask.png"],
                     description: "",
                     website: "http://salazckin.github.io/seventh",                   
@@ -632,6 +638,27 @@
                         type: "image",
                         src: "/images/work/flyleaf/flyleaf04.jpg",
                         size: [1200, 530]
+                    }]
+                }, {
+                    slug: "gen",
+                    title: "Генпоряд",
+                    category: "одностраничник",
+                    role: "",
+                    poster: ["bour.png", "bour.png"],
+                    description: "",
+                    website: "http://salazckin.github.io/fifth",                   
+                    media: [{
+                        type: "image",
+                        src: "/images/bo1.png",
+                        size: [1024, 768]
+                    }, {
+                        type: "image",
+                        src: "/images/bo2.png",
+                        size: [1024, 768]
+                    }, {
+                        type: "image",
+                        src: "/images/bo3.png",
+                        size: [1024, 768]
                     }]
                 }]
             }
