@@ -465,9 +465,9 @@
             },
             pages: {
                 about: {
-					pullquote: ["1 час работы: 500 р."],
-                    alt_quote: "1 час работы: 500 р.",
-                    sub_quote: ["", "", ""],
+					pullquote: ["1 час работы: 500 р.","совет: 500 р."],
+                    alt_quote: "1 час работы: 500 р.<br>совет: 500 р.",
+                    sub_quote: [""],
                     alt_sub_quote: "",
                     email: "salazckin@gmail.com",
                     socials: [{
@@ -509,16 +509,8 @@
                     website: "http://salazckin.github.io/first",
                     media: [{
                         type: "image",
-                        src: "/images/1.png",
-                        size: [1200, 613]
-                    }, {
-                        type: "image",
-                        src: "/images/2.png",
-                        size: [1200, 613]
-                    }, {
-                        type: "image",
-                        src: "/images/3.png",
-                        size: [1200, 613]
+                        src: "/images/ye.png",
+                        size: [1024, 768]
                     }]
                 }, {
                     slug: "white",
@@ -535,10 +527,6 @@
                     }, {
                         type: "image",
                         src: "/images/rer2.png",
-                        size: [1200, 613]
-                    }, {
-                        type: "image",
-                        src: "/images/rer3.png",
                         size: [1200, 613]
                     }]
                 }, {
