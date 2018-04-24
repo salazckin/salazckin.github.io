@@ -465,8 +465,8 @@
             },
             pages: {
                 about: {
-					pullquote: ["1 час работы: 500 р.","совет: 500 р."],
-                    alt_quote: "1 час работы: 500 р.<br>совет: 500 р.",
+					pullquote: ["1 час работы: 500 р.","совет: 1000 р."],
+                    alt_quote: "1 час работы: 500 р.<br>совет: 1000 р.",
                     sub_quote: [""],
                     alt_sub_quote: "",
                     email: "salazckin@gmail.com",
