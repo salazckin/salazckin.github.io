@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 564 466" style="enable-background:new 0 0 564 466;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{display:none;}
+	.st2{display:inline;fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:10.5;}
+	.st4{fill:none;stroke:#000000;stroke-width:4.5;}
+	.st5{font-family:'Jura-Bold';}
+	.st6{font-size:50px;}
+</style>
+<g>
+	<title>background</title>
+	<rect id="canvas_background" x="44.5" class="st0" width="475" height="468"/>
+	<g id="canvasGrid" class="st1">
+		<rect id="svg_1" x="45.3" y="1" class="st2" width="473.3" height="466"/>
+	</g>
+</g>
+<g>
+	<title>Layer 1</title>
+	<line id="svg_2" class="st3" x1="130.2" y1="302.6" x2="417.8" y2="302.6"/>
+	<line id="svg_3" class="st3" x1="158.1" y1="302.6" x2="158.1" y2="155.3"/>
+	<line id="svg_4" class="st3" x1="135.7" y1="304.7" x2="111.3" y2="170.6"/>
+	<line id="svg_5" class="st3" x1="106" y1="171.8" x2="158.3" y2="155.5"/>
+	<line id="svg_6" class="st3" x1="155.8" y1="155.6" x2="246.6" y2="168.5"/>
+	<line id="svg_9" class="st3" x1="248.6" y1="163.3" x2="235" y2="261.4"/>
+	<line id="svg_10" class="st4" x1="240.5" y1="261.2" x2="229.4" y2="261.2"/>
+	<line id="svg_11" class="st3" x1="234.5" y1="260.2" x2="219.5" y2="146.3"/>
+	<line id="svg_12" class="st3" x1="216.5" y1="150.7" x2="295.4" y2="106.9"/>
+	<line id="svg_13" class="st3" x1="292.1" y1="105.8" x2="292.1" y2="301.6"/>
+	<line id="svg_15" class="st3" x1="291.4" y1="107" x2="385.6" y2="139"/>
+	<line id="svg_16" class="st3" x1="385.3" y1="133.5" x2="372.5" y2="219.4"/>
+	<line id="svg_21" class="st3" x1="378.1" y1="217.5" x2="355.4" y2="216.7"/>
+	<line id="svg_22" class="st3" x1="360.8" y1="217.5" x2="360.8" y2="184"/>
+	<line id="svg_23" class="st3" x1="364.7" y1="189.3" x2="447.4" y2="207.1"/>
+	<line id="svg_27" class="st3" x1="443.7" y1="201.2" x2="412.5" y2="305.5"/>
+	<text transform="matrix(1 0 0 1 163.1487 356.0641)" class="st5 st6">salazckin</text>
+	<ellipse id="svg_14" class="st3" cx="282" cy="233.5" rx="226.1" ry="226.1"/>
+</g>
+</svg>
