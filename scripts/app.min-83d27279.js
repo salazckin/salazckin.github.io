@@ -485,7 +485,7 @@
                     role: "Готова только главная страница.",
                     poster: ["wnc.png", "wnc.png"],
                     description: "",
-                    website: "http://salazckin.github.io/first",
+                    website: "http://salazckin.github.io/1",
                     media: [{
                         type: "image",
                         src: "/images/1.png",
@@ -506,7 +506,7 @@
                     role: "Готова только главная страница.",
                     poster: ["yel.png", "yel.png"],
                     description: "",
-                    website: "http://salazckin.github.io/first",
+                    website: "http://salazckin.github.io/2",
                     media: [{
                         type: "image",
                         src: "/images/ye.png",
@@ -519,7 +519,7 @@
                     role: "Отличная мобильная версия",
                     poster: ["rer.png", "rer.png"],
                     description: "",
-                    website: "http://salazckin.github.io/third",                   
+                    website: "http://salazckin.github.io/3",                   
                     media: [{
                         type: "image",
                         src: "/images/rer1.png",
@@ -536,7 +536,7 @@
                     role: "мобильная версия не готова",
                     poster: ["pet1.png", "pet1.png"],
                     description: "",
-                    website: "http://salazckin.github.io/fourth",
+                    website: "http://salazckin.github.io/4",
 						media: [{
                         type: "image",
                         src: "/images/pet1.png",
@@ -557,7 +557,7 @@
                     role: "мобильная версия не готова",
                     poster: ["mod.png", "mod.png"],
                     description: "",
-                    website: "http://salazckin.github.io/sixth",                                     
+                    website: "http://salazckin.github.io/5",                                     
                     media: [{
                         type: "image",
                         src: "/images/mod1.png",
@@ -579,7 +579,7 @@
                     role: "мобильная версия не готова",
                     poster: ["ask.png", "ask.png"],
                     description: "",
-                    website: "http://salazckin.github.io/seventh",                   
+                    website: "http://salazckin.github.io/6",                   
                     media: [{
                         type: "image",
                         src: "/images/dom1.png",
@@ -592,11 +592,7 @@
                         type: "image",
                         src: "/images/dom3.png",
                         size: [1000, 768]
-                    }, {
-                        type: "image",
-                        src: "/images/work/flyleaf/flyleaf04.jpg",
-                        size: [1200, 530]
-                    }]
+                    }, ]
                 }, {
                     slug: "gen",
                     title: "Генподряд",
@@ -604,7 +600,7 @@
                     role: "",
                     poster: ["bour.png", "bour.png"],
                     description: "",
-                    website: "http://salazckin.github.io/fifth",                   
+                    website: "http://salazckin.github.io/7",                   
                     media: [{
                         type: "image",
                         src: "/images/bo1.png",
